@@ -747,6 +747,7 @@ cr
 cc
 cDDb
 cx
+char
 https
 hZ
 hS
@@ -1027,6 +1028,7 @@ aWw
 avg
 aBj
 aA
+arr
 secure
 static
 sC
@@ -1094,6 +1096,7 @@ sX
 sg
 sV
 switch
+short
 notion
 nr
 nM
@@ -1156,6 +1159,8 @@ nD
 nt
 nnnp
 nYj
+new
+null
 fcc
 fF
 fAr
@@ -1221,6 +1226,8 @@ fe
 fC
 fd
 fm
+float
+false
 eb
 eQ
 ee
@@ -1491,6 +1498,8 @@ bPcQ
 bH
 bEH
 bmn
+byte
+boolean
 PNG
 Pz
 PhMu
@@ -2291,6 +2300,7 @@ AZM
 AnY
 Aj
 AkC
+ArrayAssign
 mvi
 mm
 mmA
@@ -2907,6 +2917,7 @@ oZIn
 oqJ
 omor
 oZD
+object
 lJ
 lh
 lF
@@ -2967,6 +2978,7 @@ lEIj
 lL
 lX
 lo
+long
 YkM
 YL
 Yl
@@ -3407,6 +3419,7 @@ dAH
 diZ
 dG
 dJ
+double
 OP
 Om
 Ok
