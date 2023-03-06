@@ -667,6 +667,7 @@ Sw
 SBq
 SSu
 SaQR
+String
 class
 com
 cI
