@@ -11,8 +11,13 @@
             "id": "903fca000abe9e10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "💢数学/索引/不定积分的计算.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "  tag:",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "💢数学/索引/不定积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "💢数学/索引/不定积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "💢数学/索引/不定积分的计算.md"
+              }
             }
           }
         ],
@@ -141,15 +150,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e74cb5a34da077af",
+  "active": "903fca000abe9e10",
   "lastOpenFiles": [
+    "💢数学/定积分和不定积分.md",
+    "💢数学/索引/不定积分的计算.md",
+    "未命名.canvas",
+    "💢数学/索引",
+    "💢数学/Math.md",
     "Java/javaSE/数组/二维数组.md",
     "Java/javaSE/基础/001_JVM、JDK、JRE的区别.md",
     "Java/javaSE/数组/入门--数组.md",
     "Java/javaSE/数组/冒泡排序.md",
-    "数学/Math.md",
     "数学/未命名",
-    "数学",
+    "💢数学",
     "Java/javaSE/数组/[.md",
     "Java/javaSE/基础/006_程序控制结构.md",
     "pic/Pasted image 20230306115451.png",
@@ -183,8 +196,6 @@
     "我的知识库提纲/Java.md",
     "灵感的一天/鼠标方便还是触控板方便.md",
     "收集箱/牛奶可乐经济学(完整版) (罗伯特·弗兰克 [罗伯特·弗兰克]) (z-lib.org).pdf",
-    "收集箱/灵感碎片.canvas",
-    "半反笔记/记录生活/云顶/战绩归纳.md",
-    "收集箱/未命名 1.md"
+    "收集箱/灵感碎片.canvas"
   ]
 }
