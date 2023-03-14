@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41056f21b4806968",
+        "id": "b8ea90a5ef080abb",
         "type": "tabs",
         "children": [
           {
-            "id": "aaac850f65e801db",
+            "id": "e3fca95b5e07f075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💢数学/定积分和不定积分.md",
+                "file": "Java/javaSE/01索引/比较运算符.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4efc7f5a04759c8e",
+            "id": "29ee4482a3567714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💢数学/索引/定积分表示极限.md",
+                "file": "Java/javaSE/单例设计模式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "79a8b0b937851b55",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💢数学/定积分和不定积分.md",
+                "file": "Java/javaSE/单例设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💢数学/定积分和不定积分.md",
+                "file": "Java/javaSE/单例设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💢数学/定积分和不定积分.md"
+                "file": "Java/javaSE/单例设计模式.md"
               }
             }
           }
@@ -149,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +166,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e74cb5a34da077af",
+  "active": "29ee4482a3567714",
   "lastOpenFiles": [
-    "💢数学/定积分和不定积分.md",
+    "Java/javaSE/01索引/比较运算符.md",
+    "Java/javaSE/单例设计模式.md",
+    "Java/javaSE/01索引/算术运算符.md",
+    "Java/javaSE/01索引/三元运算符.md",
+    "Java/javaSE/01索引/逻辑运算符.md",
+    "Java/javaSE/01索引/二进制基础.md",
     "💢数学/索引/定积分表示极限.md",
+    "💢数学/定积分和不定积分.md",
     "💢数学/用定积分表示极限.md",
     "💢数学/索引/积分表.md",
     "💢数学/索引/不定积分的计算.md",
@@ -199,13 +207,8 @@
     "pic/Pasted image 20230302201001.png",
     "Java/javaSE/基础/003_运算符.md",
     "pic/Pasted image 20230302200434.png",
-    "Java/javaSE/索引/二进制基础.md",
-    "Java/javaSE/索引/三元运算符.md",
-    "Java/javaSE/索引/逻辑运算符.md",
-    "Java/javaSE/索引/比较运算符.md",
-    "Java/javaSE/索引/算术运算符.md",
     "Java/javaSE/索引/需要二进制基础.md",
-    "Java/javaSE/索引",
+    "Java/javaSE/01索引",
     "2023-03-02.md",
     "Java/javaSE/计划.md",
     "收集箱/牛奶可乐经济学(完整版) (罗伯特·弗兰克 [罗伯特·弗兰克]) (z-lib.org).pdf",
