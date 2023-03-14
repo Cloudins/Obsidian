@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💢数学/索引/定积分表示极限.md",
+                "file": "💢数学/定积分和不定积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💢数学/索引/定积分表示极限.md",
+                "file": "💢数学/定积分和不定积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💢数学/索引/定积分表示极限.md"
+                "file": "💢数学/定积分和不定积分.md"
               }
             }
           }
