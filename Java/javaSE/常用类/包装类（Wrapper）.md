@@ -41,3 +41,34 @@ System.out.println(Character.toLowerCase('A'));//转成小写
 ### 字符串的特性
 
 1. string 是一个 final 类
+
+### String 的常见方法
+
+![[Pasted image 20230323191510.png]]
+
+![[Pasted image 20230323191553.png]]
+
+#### **StringBuffer**
+
+![[Pasted image 20230323192224.png]]
+
+```java
+
+String str = "hello tom";
+
+//方式1 使用构造器
+StringBuffer stringBuffer = new StringBuffer(str);
+
+//方式2 使用的是append 方法
+StringBuffer stringBuffer1 = new StringBuffer();
+stringBuffer1 = stringBuffer1.append(str);
+
+//看看StringBuffer ->String
+StringBuffer stringBuffer3 = new StringBuffer("韩顺平教育");
+
+//方式1 使用StringBuffer 提供的toString 方法
+String s = stringBuffer3.toString();
+
+//方式2: 使用构造器来搞定
+String s1 = new String(stringBuffer3);
+```
