@@ -673,6 +673,7 @@ String
 Spring
 SpringBoot
 SpringCloud
+SDK
 class
 com
 cI
@@ -1659,6 +1660,8 @@ IDATI
 IQ
 Imev
 IqF
+IoT
+IOT
 qAm
 qh
 qwW
@@ -2255,6 +2258,7 @@ zMTd
 zS
 zG
 zW
+zigbee
 Ap
 At
 Ab
@@ -2383,6 +2387,7 @@ mCD
 mV
 mn
 mybatis
+mesh
 xm
 xYI
 xp
@@ -3157,6 +3162,7 @@ BUy
 Btm
 BrkA
 Boot
+BLE
 kQ
 kO
 kqyy

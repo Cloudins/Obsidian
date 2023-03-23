@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d103fc17229bdcca",
+        "id": "83b57e1f943c53a6",
         "type": "tabs",
         "children": [
           {
-            "id": "f681665023701e35",
+            "id": "12c73aaf3e07348b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式/嵌入式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c656916baabe423e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/招聘.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0366641a5a64231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/javaSE/常用类/未命名.md",
+                "file": "Java/javaSE/常用类/包装类（Wrapper）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/javaSE/常用类/未命名.md",
+                "file": "Java/javaSE/常用类/包装类（Wrapper）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/javaSE/常用类/未命名.md",
+                "file": "Java/javaSE/常用类/包装类（Wrapper）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/javaSE/常用类/未命名.md"
+                "file": "Java/javaSE/常用类/包装类（Wrapper）.md"
               }
             }
           }
@@ -179,12 +152,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0366641a5a64231",
+  "active": "12c73aaf3e07348b",
   "lastOpenFiles": [
-    "Java/招聘.md",
+    "pic/Pasted image 20230323184142.png",
+    "Java/javaSE/常用类/包装类（Wrapper）.md",
     "Java/javaSE/常用类/未命名.md",
-    "Java/javaSE/常用类",
     "嵌入式/嵌入式.md",
+    "Java/招聘.md",
+    "Java/javaSE/常用类",
     "未命名/学校志愿.md",
     "嵌入式",
     "未命名 1.canvas",
@@ -219,10 +194,8 @@
     "pic/Pasted image 20230306112711.png",
     "Java/javaSE/数组",
     "Java/javaSE/基础/004_进制的转换.md",
-    "Java/javaSE/基础/002_变量.md",
     "Java/javaSE/基础",
     "pic/Pasted image 20230305214759.png",
-    "README.md",
     "pic/Pasted image 20230302210123.png",
     "pic/Pasted image 20230302205641.png",
     "pic/Pasted image 20230302201457.png",
