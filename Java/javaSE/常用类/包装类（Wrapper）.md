@@ -36,3 +36,8 @@ System.out.println(Character.toLowerCase('A'));//转成小写
 
 ![[Pasted image 20230323190349.png]]
 
+![[Pasted image 20230323190804.png]]
+
+### 字符串的特性
+
+1. string 是一个 final 类
