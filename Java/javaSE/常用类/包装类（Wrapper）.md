@@ -28,3 +28,11 @@ System.out.println(Character.toUpperCase('a'));//转成大写
 System.out.println(Character.toLowerCase('A'));//转成小写
 ```
 
+
+
+## String
+
+1. string 对象用来保存字符串
+
+![[Pasted image 20230323190349.png]]
+
