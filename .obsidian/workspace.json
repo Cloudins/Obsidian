@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aafb8bac4f8edd28",
+        "id": "d103fc17229bdcca",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7dd1e7b4f06ce4",
+            "id": "f681665023701e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/学校志愿.md",
+                "file": "嵌入式/嵌入式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79a8b0b937851b55",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名/学校志愿.md",
+                "file": "嵌入式/嵌入式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名/学校志愿.md",
+                "file": "嵌入式/嵌入式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名/学校志愿.md"
+                "file": "嵌入式/嵌入式.md"
               }
             }
           }
@@ -152,10 +151,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c7dd1e7b4f06ce4",
+  "active": "f681665023701e35",
   "lastOpenFiles": [
     "未命名/学校志愿.md",
-    "未命名",
+    "嵌入式/嵌入式.md",
+    "嵌入式",
+    "未命名 1.canvas",
     "Java/javaSE/01索引/比较运算符.md",
     "Java/javaSE/final 关键字.md",
     "pic/Pasted image 20230314193721.png",
@@ -196,7 +197,6 @@
     "Java/javaSE/基础/005_位运算.md",
     "pic/Pasted image 20230302201457.png",
     "Java/javaSE/基础/003_运算符.md",
-    "Java/javaSE/索引/需要二进制基础.md",
     "Java/javaSE/01索引",
     "收集箱/牛奶可乐经济学(完整版) (罗伯特·弗兰克 [罗伯特·弗兰克]) (z-lib.org).pdf",
     "收集箱/灵感碎片.canvas"
