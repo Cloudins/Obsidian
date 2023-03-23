@@ -100,3 +100,18 @@ int indexOf = s.indexOf("张三丰");
 System.out.println(indexOf);//6
 
 ```
+
+
+### StringBuilder
+
+![[Pasted image 20230323194907.png]]
+
+![[Pasted image 20230323195150.png]]
+
+### Math
+
+![[Pasted image 20230323195212.png]]
+
+### Array
+
+![[Pasted image 20230323195417.png]]
