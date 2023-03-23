@@ -115,3 +115,7 @@ System.out.println(indexOf);//6
 ### Array
 
 ![[Pasted image 20230323195417.png]]
+
+
+![[Pasted image 20230323195421.png]]
+
