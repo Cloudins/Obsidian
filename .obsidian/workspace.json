@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ea90a5ef080abb",
+        "id": "aafb8bac4f8edd28",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fca95b5e07f075",
+            "id": "3c7dd1e7b4f06ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/javaSE/01索引/比较运算符.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29ee4482a3567714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/javaSE/单例设计模式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46849df44a4bba2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/javaSE/final 关键字.md",
+                "file": "未命名/学校志愿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/javaSE/final 关键字.md",
+                "file": "未命名/学校志愿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/javaSE/final 关键字.md",
+                "file": "未命名/学校志愿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/javaSE/final 关键字.md"
+                "file": "未命名/学校志愿.md"
               }
             }
           }
@@ -179,14 +152,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46849df44a4bba2f",
+  "active": "3c7dd1e7b4f06ce4",
   "lastOpenFiles": [
+    "未命名/学校志愿.md",
+    "未命名",
+    "Java/javaSE/01索引/比较运算符.md",
+    "Java/javaSE/final 关键字.md",
     "pic/Pasted image 20230314193721.png",
     "pic/Pasted image 20230314193626.png",
     "Java/javaSE/单例设计模式.md",
-    "Java/javaSE/final 关键字.md",
     "pic/Pasted image 20230314193547.png",
-    "Java/javaSE/01索引/比较运算符.md",
     "Java/javaSE/01索引/算术运算符.md",
     "Java/javaSE/01索引/三元运算符.md",
     "Java/javaSE/01索引/逻辑运算符.md",
@@ -220,7 +195,6 @@
     "pic/Pasted image 20230302205641.png",
     "Java/javaSE/基础/005_位运算.md",
     "pic/Pasted image 20230302201457.png",
-    "pic/Pasted image 20230302201355.png",
     "Java/javaSE/基础/003_运算符.md",
     "Java/javaSE/索引/需要二进制基础.md",
     "Java/javaSE/01索引",
