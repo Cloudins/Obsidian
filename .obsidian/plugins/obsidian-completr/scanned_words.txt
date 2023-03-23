@@ -234,6 +234,7 @@ MSl
 Mx
 MgOM
 MNn
+Mybatis
 Development
 Dr
 DQ
@@ -669,6 +670,9 @@ SBq
 SSu
 SaQR
 String
+Spring
+SpringBoot
+SpringCloud
 class
 com
 cI
@@ -749,6 +753,7 @@ cc
 cDDb
 cx
 char
+crud
 https
 hZ
 hS
@@ -812,6 +817,7 @@ hA
 hYb
 hcX
 hx
+http
 us
 uP
 uG
@@ -1031,6 +1037,7 @@ avg
 aBj
 aA
 arr
+apollo
 secure
 static
 sC
@@ -1504,6 +1511,7 @@ bEH
 bmn
 byte
 boolean
+bug
 PNG
 Pz
 PhMu
@@ -1918,6 +1926,7 @@ CRz
 Cv
 Cfc
 Ch
+Cloud
 HC
 HP
 Hp
@@ -2044,6 +2053,8 @@ rug
 rNn
 rpx
 rCe
+redis
+rocketMQ
 WN
 WV
 Wb
@@ -2307,6 +2318,7 @@ Aj
 AkC
 ArrayAssign
 AppData
+ACM
 mvi
 mm
 mmA
@@ -2370,6 +2382,7 @@ mUy
 mCD
 mV
 mn
+mybatis
 xm
 xYI
 xp
@@ -2437,6 +2450,7 @@ xjC
 xfI
 xZUI
 xED
+xxl
 QAgH
 QL
 QmO
@@ -3142,6 +3156,7 @@ BLIjK
 BUy
 Btm
 BrkA
+Boot
 kQ
 kO
 kqyy
@@ -3430,6 +3445,7 @@ diZ
 dG
 dJ
 double
+dubbo
 OP
 Om
 Ok
