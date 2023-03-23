@@ -71,4 +71,32 @@ String s = stringBuffer3.toString();
 
 //方式2: 使用构造器来搞定
 String s1 = new String(stringBuffer3);
+
+```
+
+StringBuffer 常用方法
+
+```java
+
+StringBuffer s = new StringBuffer("hello");
+//增
+s.append(',');// "hello,"
+s.append("张三丰");//"hello,张三丰"
+s.append("赵敏").append(100).append(true).append(10.5);//"hello,张三丰赵敏100true10.5"
+System.out.println(s);//"hello,张三丰赵敏100true10.5"
+//删
+/*
+* 删除索引为>=start && <end 处的字符
+* 解读: 删除11~14 的字符[11, 14)
+*/
+s.delete(11, 14);
+System.out.println(s);//"hello,张三丰赵敏true10.5"
+//改
+//老韩解读，使用周芷若替换索引9-11 的字符[9,11)
+s.replace(9, 11, "周芷若");
+System.out.println(s);//"hello,张三丰周芷若true10.5"
+//查找指定的子串在字符串第一次出现的索引，如果找不到返回-1
+int indexOf = s.indexOf("张三丰");
+System.out.println(indexOf);//6
+
 ```
