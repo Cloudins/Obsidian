@@ -143,6 +143,15 @@ System.out.println(indexOf);//6
 
 ### 日期类
 
-![[Pasted image 20230323202430.png | 600]]
+![[Pasted image 20230323202430.png]]
 
 
+![[Pasted image 20230323202553.png]]
+
+![[Pasted image 20230323202645.png]]
+
+![[Pasted image 20230323202653.png]]
+
+**日期格式化**
+
+![[Pasted image 20230323202704.png]]
