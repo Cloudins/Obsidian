@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "79a8b0b937851b55",
@@ -136,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +154,12 @@
   },
   "active": "86acf0ae03a6ea53",
   "lastOpenFiles": [
-    "Java/javaSE/常用类/包装类（Wrapper）.md",
+    "Java/javaSE/01索引/逻辑运算符.md",
+    "Java/javaSE/01索引/二进制基础.md",
+    "Java/javaSE/01索引/比较运算符.md",
     "Java/javaSE/HashMap源码解析.md",
+    "Java/javaSE/01索引/三元运算符.md",
+    "Java/javaSE/常用类/包装类（Wrapper）.md",
     "pic/Pasted image 20230323202704.png",
     "pic/Pasted image 20230323202653.png",
     "pic/Pasted image 20230323202645.png",
@@ -173,13 +177,9 @@
     "未命名/学校志愿.md",
     "嵌入式",
     "未命名 1.canvas",
-    "Java/javaSE/01索引/比较运算符.md",
     "Java/javaSE/final 关键字.md",
     "Java/javaSE/单例设计模式.md",
     "Java/javaSE/01索引/算术运算符.md",
-    "Java/javaSE/01索引/三元运算符.md",
-    "Java/javaSE/01索引/逻辑运算符.md",
-    "Java/javaSE/01索引/二进制基础.md",
     "💢数学/索引/定积分表示极限.md",
     "💢数学/定积分和不定积分.md",
     "💢数学/用定积分表示极限.md",
