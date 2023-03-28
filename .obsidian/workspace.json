@@ -8,19 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12c73aaf3e07348b",
+            "id": "86acf0ae03a6ea53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/javaSE/常用类/包装类（Wrapper）.md",
+                "file": "Java/javaSE/HashMap源码解析.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -70,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79a8b0b937851b55",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/javaSE/常用类/包装类（Wrapper）.md",
+                "file": "Java/javaSE/HashMap源码解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/javaSE/常用类/包装类（Wrapper）.md",
+                "file": "Java/javaSE/HashMap源码解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/javaSE/常用类/包装类（Wrapper）.md"
+                "file": "Java/javaSE/HashMap源码解析.md"
               }
             }
           }
@@ -152,8 +152,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c73aaf3e07348b",
+  "active": "86acf0ae03a6ea53",
   "lastOpenFiles": [
+    "Java/javaSE/常用类/包装类（Wrapper）.md",
+    "Java/javaSE/HashMap源码解析.md",
     "pic/Pasted image 20230323202704.png",
     "pic/Pasted image 20230323202653.png",
     "pic/Pasted image 20230323202645.png",
@@ -164,8 +166,6 @@
     "pic/Pasted image 20230323195417.png",
     "pic/Pasted image 20230323195212.png",
     "pic/Pasted image 20230323195150.png",
-    "pic/Pasted image 20230323194907.png",
-    "Java/javaSE/常用类/包装类（Wrapper）.md",
     "Java/javaSE/常用类/未命名.md",
     "嵌入式/嵌入式.md",
     "Java/招聘.md",
