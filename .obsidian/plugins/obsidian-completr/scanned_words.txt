@@ -1449,6 +1449,7 @@ pP
 pZv
 pl
 pr
+put
 ba
 bb
 bSs
@@ -2067,6 +2068,7 @@ rpx
 rCe
 redis
 rocketMQ
+resize
 WN
 WV
 Wb
