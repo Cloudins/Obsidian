@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc7888ad425dfe05",
+            "id": "3594d8ba18cb8216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/周记.md",
+                "file": "现科/电子信息工程技术.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/周记.md",
+                "file": "现科/电子信息工程技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/周记.md",
+                "file": "现科/电子信息工程技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/周记.md"
+                "file": "现科/电子信息工程技术.md"
               }
             }
           }
@@ -151,11 +151,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc7888ad425dfe05",
+  "active": "3594d8ba18cb8216",
   "lastOpenFiles": [
+    "现科/课程大纲（2022第9期-表格式）-A3纸.pdf",
+    "现科/电子信息工程技术.md",
+    "生活/周记.md",
+    "现科",
     "学习技术",
     "学习技术/Java/javaSE/HashMap源码解析.md",
-    "生活/周记.md",
     "生活",
     "学习技术/Java/javaSE/01索引/逻辑运算符.md",
     "学习技术/Java/javaSE/01索引/二进制基础.md",
@@ -196,11 +199,7 @@
     "学习技术/Java/javaSE/数组/冒泡排序.md",
     "数学/未命名",
     "生活/💢数学",
-    "Java/javaSE/数组/[.md",
     "学习技术/Java/javaSE/数组",
-    "学习技术/Java/javaSE/基础",
-    "学习技术/Java/javaSE/01索引",
-    "收集箱/牛奶可乐经济学(完整版) (罗伯特·弗兰克 [罗伯特·弗兰克]) (z-lib.org).pdf",
     "收集箱/灵感碎片.canvas"
   ]
 }
